@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Digital Humanities Project: Analyzing Sexual Assault Coverage in Israeli Media"
+date: 2020-11-08
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
-It actually is a lot easier than I thought it was going to be.
+In the past three months, Israel has been going through an epidemic of severe sexual assault cases, domestic violence incidents associated with the long-lasting lockdown measures, and absurdly lenient verdicts for convicted sexual offenders. While there surely have been many such cases earlier, public awareness, reaction, and media coverage in relation to recents events has been heightened. Kulan (כולן) (the feminine version of the word ‘everyone’ in Hebrew), a feminist activist group, has recently launced an online campign named Fair Coverage, aiming to eradicate prevalent reporting practices that perpetuate ‘rape culture’. Such practices include victim-blaming, using lenient terminology (e.g. using the Hebrew equivalent of intercourse when there is evidence for rape), and focusing attention on the consequences on the offenders career or life trajectory while downplaying the victim’s voice and harm. A key part of the campaign is devoted to calling out media articles from online news platforms. So far, this work has been done sporadically and reactively, at least partly due to the organization’s limited resources. For my final project, I plan to support Kulan’s endeavor by applying NLP techniques to compare ‘rape culture’ coverage practices across Israeli media outlets. 
+
+The intended deliverable of my work will be an online report, accompanied by appropriate visualizations, that summarizes the results of my analysis. Additionally, based on the choices made for data collection, its quality, and the available time, a secondary deliverable could be a dataset of Israeli media outlets with an accompanying data biography. The audience for the main deliverable is two-fold: Kulan (and similar organizations), which could use these results to strengthen their current campaign, and the wider Israeli public, who would hopefully learn about how different media outlets cover sexual assault cases. A dataset might be useful for other journalists who would be interested in analyzing a corpus of news reports.
